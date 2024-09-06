@@ -9,6 +9,8 @@ My data science and analytics projects.
 4. Looker GA4 Dashboard
 5. Linear Regression Model using caret
 
-This is an image of a cat:
+## Contact Me
+reach out to me at methinun.rr@gamil.com
 
-![A cute cat](https://example.com/images/cat.jpg)
+## Image
+![Have a nice day](https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1326/1371326-i-c802b043bc6b)

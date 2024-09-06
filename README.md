@@ -8,3 +8,7 @@ My data science and analytics projects.
 3. R programming
 4. Looker GA4 Dashboard
 5. Linear Regression Model using caret
+
+This is an image of a cat:
+
+![A cute cat](https://example.com/images/cat.jpg)
